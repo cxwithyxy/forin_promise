@@ -1,0 +1,18 @@
+{
+  "name": "forin_promise",
+  "version": "1.0.0",
+  "main": "forin_promise.js",
+  "repository": "https://github.com/cxwithyxy/forin_promise.git",
+  "author": "chenxuan <523764720@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "p-limit": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.134",
+    "typescript": "^3.5.2"
+  },
+  "types": "./forin_promise.d.ts",
+  "typings": "./forin_promise.d.ts"
+}
