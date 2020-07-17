@@ -6,7 +6,7 @@
   "author": "chenxuan <523764720@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "p-limit": "^2.2.0"
   },
   "devDependencies": {
